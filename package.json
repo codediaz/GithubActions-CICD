@@ -1,0 +1,20 @@
+{
+  "name": "githubactions-cicd",
+  "version": "1.0.0",
+  "description": "Learn the basics to create your first CI/CD flow for your projects with GitHub Actions",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codediaz/GithubActions-CICD.git"
+  },
+  "keywords": [],
+  "author": "@codediaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codediaz/GithubActions-CICD/issues"
+  },
+  "homepage": "https://github.com/codediaz/GithubActions-CICD#readme"
+}
